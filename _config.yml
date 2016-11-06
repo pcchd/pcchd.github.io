@@ -10,7 +10,7 @@ title: "Programmers' Club Chandigarh"
 email: ckhabra+pcchd@gmail.com
 description: >
   A small group of programmers in/around chandigarh which meet, discuss, learn and share all things computers
-logo: "/assets/images/logo.png"
+logo: "/assets/images/logo-sm.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://programmers-club-chandigarh.github.io" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
@@ -18,7 +18,7 @@ paginate:	10 # The number of posts to show per page on your homepage
 name: "Programmers' Club Chandigarh"
 bio: >
   Programmers Club Chandigarh is a small group of programmers based around Chandigarh which meet and discuss and learn and share all things computers. You are welcome to join. We have a meetup group: http://www.meetup.com/Chandigarh-Programmers-Club and a slack channel: https://pcchd.slack.com, and of course this github organization.
-author_image: "/assets/images/author.png"
+author_image: "/assets/images/author-sm.png"
 twitter_username:
 github_username:  programmers-club-chandigarh
 
