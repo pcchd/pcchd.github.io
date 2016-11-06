@@ -4,29 +4,14 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/sports"></amp-img>
+<amp-img width="400" height="300" layout="responsive" src="/assets/images/logo-big.png"></amp-img>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+We are a small (as of now) group of programmers/software developers based around Chandigarh who want to build/have a healthy tech culture in Tricity. We in this group hope to create a culture which encourage experimentation and learning exciting things. Or at the very least, create a bubble around us that does.
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
+Like Paul Graham said in his [brilliant article](http://paulgraham.com/cities.html), every city sends a message. The message Chandigarh sends is not very encouraging for our tech enthusiasts. The meager presence of software companies in Chandigarh is not doing a lot of good for the city. A lot of these seem to be sweat shops, havens of exploitation of employees. There is a very toxic culture of "education" that is already sunk deep in our whole region. A lot of talent gets wasted at the hands of phony colleges and training institutes, most of the rest flee to places which show some promise for tech-heads.
 
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+We love this city. We want to change this. The whole lack of a tech culture is a curse, and an opportunity as well. We have a clean slate. We can try to create a healthy culture which encourage innovation and initiative, learning and teaching technology as a form of art instead of creating more 9-to-5 code monkeys.
+
+If you are a programmer, or want to be, or are just looking to check out if programming is for you, meet us at one of our meetups. We have a group on meetup.com where we announce our meetups: <http://www.meetup.com/Chandigarh-Programmers-Club>
+
+Or you can have a chat with us on our slack channel: <http://pcchd.slack.com>
