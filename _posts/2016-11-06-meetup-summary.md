@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary for PCC meetup on Sunday 11th November, 2016
+title: Summary for PCC meetup on Sunday 6th November, 2016
 ---
 
 Meetup went better than I expected. We had a nice discussion on various topics. Only 4 of us attended this meetup, me (Charanjit), Bunny, Abhijeet and Paras.
