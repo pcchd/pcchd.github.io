@@ -12,7 +12,7 @@ description: >
   A small group of programmers in/around chandigarh which meet, discuss, learn and share all things computers
 logo: "/assets/images/logo-sm.png"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://programmers-club-chandigarh.github.io" # the base hostname & protocol for your site
+url: "http://pcchd.github.io" # the base hostname & protocol for your site
 paginate:	10 # The number of posts to show per page on your homepage
 
 name: "Programmers' Club Chandigarh"
