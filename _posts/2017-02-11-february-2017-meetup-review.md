@@ -5,6 +5,8 @@ title: Summary for PCC meetup on Saturday, February 11 2017
 
 <amp-img alt="Programmer's Club Chandigarh February 2017 meetup" width="600" height="400" layout="responsive" src="/assets/images/programmers-club-chanidgarh-february-2017-meetup.jpg"></amp-img>
 
+You can check the slides for the talk of this meetup on slides.com here https://slides.com/channikhabra/modern-js-apps-2017/
+
 It was a great meetup, full of meaningful discussion. The topic was "Everything you need to know about modern Javascript Apps". An obviously cheesy heading with a strong implication that it was for beginners. I believe it is
 a given that in a group which targets such a wide audience ("Programmers' Club"), it is hard to dig
 deeper into any particular topic.
